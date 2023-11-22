@@ -1,3 +1,3 @@
-module github.Com/idrissiAyman/puppy
+module github.com/idrissiAyman/puppy
 
 go 1.21.4
